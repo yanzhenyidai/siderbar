@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.yanzhenyidai.siderbar.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.yanzhenyidai.siderbar.MyBundle
 
 class MyApplicationService {
 
